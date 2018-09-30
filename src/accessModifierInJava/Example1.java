@@ -7,6 +7,8 @@ public class Example1 {
 	private int p;
 	int d;
 
+	String a,b,c;
+	
 	public void test1() {
       System.out.println("public void test1()");
 	}
